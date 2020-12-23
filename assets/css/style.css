@@ -801,7 +801,7 @@ ul.breadcrumb li a:hover {
     position: fixed;
     top: 0;
     width: 100%;
-    z-index: 99999999;
+    z-index: 0;
     border-top: none;
     border-bottom: 2px solid #eef3f9;
 }
